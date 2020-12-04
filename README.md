@@ -1,4 +1,4 @@
-# CSE6140JavapPro
+# CSE6140FinalProject (Java)
 Java implementation of Gatech CSE6140 group project.
 
 **Compile** 
