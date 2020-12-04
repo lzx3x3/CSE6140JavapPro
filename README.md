@@ -4,7 +4,11 @@ Java implementation of Gatech CSE6140 group project solving NP-Complete problem 
 **Compile** 
 
 ```bash
-cd src
+cd src/Java
 
-javac ./src/*.java -d OUTPUT_DIR
+javac *.java -d OUTPUT_DIR
+
+cd ..       #in src
+
+java Java/AlgoJava.java
 ```
