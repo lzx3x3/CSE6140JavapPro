@@ -6,5 +6,5 @@ Java implementation of Gatech CSE6140 group project solving NP-Complete problem 
 ```bash
 cd src
 
-javac ./vc/*.java -d OUTPUT_DIR
+javac ./src/*.java -d OUTPUT_DIR
 ```
